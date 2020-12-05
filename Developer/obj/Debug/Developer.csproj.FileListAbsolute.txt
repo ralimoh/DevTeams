@@ -1,0 +1,6 @@
+C:\Users\Owner\source\repos\DeveloperTeamsApp\Developer\obj\Debug\Developer.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\DeveloperTeamsApp\Developer\obj\Debug\Developer.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\DeveloperTeamsApp\Developer\bin\Debug\Developer.dll
+C:\Users\Owner\source\repos\DeveloperTeamsApp\Developer\bin\Debug\Developer.pdb
+C:\Users\Owner\source\repos\DeveloperTeamsApp\Developer\obj\Debug\Developer.dll
+C:\Users\Owner\source\repos\DeveloperTeamsApp\Developer\obj\Debug\Developer.pdb

@@ -1,0 +1,9 @@
+C:\Users\Owner\source\repos\DeveloperTeamsApp\DevTeam\obj\Debug\DevTeam.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\DeveloperTeamsApp\DevTeam\obj\Debug\DevTeam.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\DeveloperTeamsApp\DevTeam\bin\Debug\DevTeam.dll
+C:\Users\Owner\source\repos\DeveloperTeamsApp\DevTeam\bin\Debug\DevTeam.pdb
+C:\Users\Owner\source\repos\DeveloperTeamsApp\DevTeam\bin\Debug\Developer.dll
+C:\Users\Owner\source\repos\DeveloperTeamsApp\DevTeam\bin\Debug\Developer.pdb
+C:\Users\Owner\source\repos\DeveloperTeamsApp\DevTeam\obj\Debug\DevTeam.csproj.CopyComplete
+C:\Users\Owner\source\repos\DeveloperTeamsApp\DevTeam\obj\Debug\DevTeam.dll
+C:\Users\Owner\source\repos\DeveloperTeamsApp\DevTeam\obj\Debug\DevTeam.pdb
